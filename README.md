@@ -6,6 +6,8 @@ This repository contains files for:
     - `week-07-equations.pdf`
   - `/Lab`
     - `lab-07.pdf`
+  - `/ProblemSet-05`
+    - `ps-05.pdf`
   - `/Slides`
     - `week-07-slides.pdf`
   - `LICENSE_CODE.md`
